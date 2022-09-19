@@ -1,6 +1,6 @@
 # Project 10 : Interior Design  Landing Page
 
-- Click here for live demo of the Project on [ NETLIFY ](https://parikshitproject2.netlify.app/ "Parikshit Project 1")
+- Click here for live demo of the Project on [ NETLIFY ](https://parikshitproject10.netlify.app/ "Parikshit Project 10")
 
 <br/>
 
